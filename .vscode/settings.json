@@ -1,0 +1,5 @@
+{
+    // "discord.removeTimestamp": true,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace"
+}
