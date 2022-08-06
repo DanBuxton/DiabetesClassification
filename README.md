@@ -1,1 +1,1 @@
-# DiabetesClassification
+# Diabetes Classification
